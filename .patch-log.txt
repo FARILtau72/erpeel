@@ -1,0 +1,6 @@
+Patch log:
+- Updated button color CSS and dark-mode variants
+- Added responsive media query for ~60cm x 30cm displays
+- Added data-i18n attributes to many buttons and modal elements
+- Added translation helper t() and used it for dynamic playlist texts
+- TODO: extend translations object and add data-i18n to remaining static TEXT
